@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deploy-crud/static/css/main.a144baaf.chunk.css",
+    "main.js": "/deploy-crud/static/js/main.f3f60290.chunk.js",
+    "main.js.map": "/deploy-crud/static/js/main.f3f60290.chunk.js.map",
+    "runtime-main.js": "/deploy-crud/static/js/runtime-main.13806ef6.js",
+    "runtime-main.js.map": "/deploy-crud/static/js/runtime-main.13806ef6.js.map",
+    "static/css/2.d98961f1.chunk.css": "/deploy-crud/static/css/2.d98961f1.chunk.css",
+    "static/js/2.e8da6038.chunk.js": "/deploy-crud/static/js/2.e8da6038.chunk.js",
+    "static/js/2.e8da6038.chunk.js.map": "/deploy-crud/static/js/2.e8da6038.chunk.js.map",
+    "index.html": "/deploy-crud/index.html",
+    "precache-manifest.d1c43d9e4b7d89b72a791e27bc97099f.js": "/deploy-crud/precache-manifest.d1c43d9e4b7d89b72a791e27bc97099f.js",
+    "service-worker.js": "/deploy-crud/service-worker.js",
+    "static/css/2.d98961f1.chunk.css.map": "/deploy-crud/static/css/2.d98961f1.chunk.css.map",
+    "static/css/main.a144baaf.chunk.css.map": "/deploy-crud/static/css/main.a144baaf.chunk.css.map",
+    "static/js/2.e8da6038.chunk.js.LICENSE.txt": "/deploy-crud/static/js/2.e8da6038.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13806ef6.js",
+    "static/css/2.d98961f1.chunk.css",
+    "static/js/2.e8da6038.chunk.js",
+    "static/css/main.a144baaf.chunk.css",
+    "static/js/main.f3f60290.chunk.js"
+  ]
+}
